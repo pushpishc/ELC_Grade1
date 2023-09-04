@@ -98,7 +98,8 @@ img.src = "image/2.png";
 				
 				 
 				 $(".newSet").click(function(){
-											 
+						console.log("Sourabh")	
+						console.log("Sourabh1")
 						 sb=-10000;///set this as initial value..
 											 
 				 					$(".Procedure_banner,.SolutionPartContent").hide();				   
